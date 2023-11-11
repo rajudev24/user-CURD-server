@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "E:\\Test\\ReplyMind\\server-boilerplate\\logs\\winston\\successes\\.cf498ebec1a84a354e1bd15a358a0be2e45902ec-audit.json",
+    "files": [
+        {
+            "date": 1699594060661,
+            "name": "E:\\Test\\ReplyMind\\server-boilerplate\\logs\\winston\\successes\\2023-10-11-11-success.log",
+            "hash": "847bb0592a6b223ccae471ef5077b1f43a3a8fd4b29fe65aa2ede4796f6607a2"
+        },
+        {
+            "date": 1699718999663,
+            "name": "E:\\Test\\ReplyMind\\server-boilerplate\\logs\\winston\\successes\\2023-11-11-22-success.log",
+            "hash": "9a19d63f3dcdf4333126b938df63d384ec2935b350f97cd674f4aa2b093e901e"
+        },
+        {
+            "date": 1699722145828,
+            "name": "E:\\Test\\ReplyMind\\server-boilerplate\\logs\\winston\\successes\\2023-11-11-23-success.log",
+            "hash": "734d7a98b77511a4c362a325a7668c301a95e9598038d3f7e73a5e054b3c707c"
+        }
+    ],
+    "hashType": "sha256"
+}
